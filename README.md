@@ -9,13 +9,13 @@
 -->
 
 <div align="center">
-  <h1>👋 Hi, I'm Rayterion</h1>
+  <h1>👋 Hi, I'm Túlio</h1>
   <h3>Software Developer | Open Source Contributor</h3>
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer who loves building innovative solutions and contributing to open source projects. I enjoy exploring new technologies and constantly learning to stay at the forefront of software development.
 
