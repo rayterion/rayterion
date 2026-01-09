@@ -11,9 +11,7 @@ Software developer passionate about building meaningful solutions and contributi
 
 🔭 **Currently contributing to [Docusaurus](https://github.com/facebook/docusaurus)** ![Docusaurus](https://img.shields.io/badge/-Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white) - Meta's open-source documentation framework. I maintain a fork and actively contribute to improving the project.
 
-🌱 Exploring web development, cloud technologies, and always learning something new
-
-👯 Open to collaborating on interesting open-source projects
+Open to collaborating on interesting open-source projects
 
 ---
 
@@ -60,28 +58,3 @@ Software developer passionate about building meaningful solutions and contributi
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-## 💼 Featured Projects
-
-**🚀 Gorgoyle Marketplace** - Platform for discovering and evaluating AI models  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**💡 LightDB** - Lightweight TypeScript database library for learning and testing  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-6E933D?style=flat-square&logo=vitest&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayterion&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayterion&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
-</div>
-
----
-
-⭐️ From [rayterion](https://github.com/rayterion)
