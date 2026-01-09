@@ -1,3 +1,13 @@
+<!-- 
+  👋 Welcome! This is your GitHub Profile README template.
+  
+  📝 Customize these sections:
+  - Social media links (LinkedIn, Twitter, Email)
+  - Featured projects (replace Project 1-4 with your actual projects)
+  - Tech stack (add/remove technologies based on your experience)
+  - About Me section (personalize your introduction)
+-->
+
 <div align="center">
   <h1>👋 Hi, I'm Rayterion</h1>
   <h3>Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
@@ -152,6 +162,11 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ## 🏆 Featured Projects & Contributions
 
+<!-- 
+  💼 Replace these placeholder projects with your actual projects
+  Include links to repositories and update descriptions/tech stacks accordingly
+-->
+
 ### 💼 Personal Projects
 
 <table>
@@ -227,6 +242,11 @@ I actively contribute to various open source projects across different domains:
 ---
 
 ## 🤝 Let's Connect!
+
+<!-- 
+  📌 Update these links with your actual social media profiles
+  You can also add more platforms like: Dev.to, Medium, Stack Overflow, etc.
+-->
 
 <div align="center">
   <a href="https://github.com/rayterion">
