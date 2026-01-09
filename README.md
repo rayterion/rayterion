@@ -11,15 +11,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Rayterion</h1>
   <h3>Software Developer | Open Source Contributor</h3>
-  
-  <p>
-    <a href="https://github.com/rayterion">
-      <img src="https://img.shields.io/github/followers/rayterion?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/rayterion">
-      <img src="https://komarev.com/ghpvc/?username=rayterion&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-    </a>
-  </p>
 </div>
 
 ---
