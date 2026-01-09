@@ -1,12 +1,3 @@
-<!-- 
-  👋 Welcome! This is your GitHub Profile README template.
-  
-  📝 Customize these sections:
-  - Social media links (LinkedIn, Twitter, Email)
-  - Featured projects (replace Project 1-4 with your actual projects)
-  - Tech stack (add/remove technologies based on your experience)
-  - About Me section (personalize your introduction)
--->
 
 <div align="center">
   <h1>👋 Hi, I'm Túlio</h1>
@@ -17,13 +8,13 @@
 
 ## About Me
 
-I'm a passionate developer who loves building innovative solutions and contributing to open source projects. I enjoy exploring new technologies and constantly learning to stay at the forefront of software development.
+I'm a passionate software developer dedicated to crafting innovative solutions and actively contributing to the open-source community. My journey involves continuously exploring new technologies and staying at the forefront of software development, with a strong focus on clean code, best practices, and scalable architectures.
 
-- 🔭 Currently working on exciting projects in web development and cloud technologies
-- 🌱 Continuously learning and experimenting with cutting-edge tech
-- 👯 Open to collaborating on innovative open source projects
-- 💡 Passionate about clean code, best practices, and scalable architectures
-- 📫 Reach out to me for collaboration opportunities
+- 🔭 Currently immersed in web development and cloud technologies, building robust and efficient applications.
+- 🌱 Constantly expanding my knowledge and experimenting with cutting-edge tech to deliver impactful solutions.
+- 👯 Always eager to collaborate on innovative open-source projects that push the boundaries of technology.
+- 💡 Driven by a commitment to writing clean, maintainable code and designing scalable systems.
+- 📫 Feel free to reach out for collaboration opportunities or just to connect!
 
 ---
 
@@ -39,7 +30,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=rubyonrails&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -153,113 +144,50 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ## 🏆 Featured Projects & Contributions
 
-<!-- 
-  💼 Replace these placeholder projects with your actual projects
-  Include links to repositories and update descriptions/tech stacks accordingly
--->
+### 🌟 Open Source Highlights
+
+I'm currently contributing to the **Docusaurus** open-source project from Meta, a powerful tool for building and maintaining documentation websites. My involvement includes maintaining a fork of the project and actively contributing to its ecosystem, helping to enhance its features and stability. I also engage with other open-source initiatives, focusing on areas like web frameworks, developer tooling, and documentation improvements.
 
 ### 💼 Personal Projects
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h4>🚀 Project 1</h4>
-      <p>Full-stack web application built with React, Node.js, and PostgreSQL</p>
+      <h4>🚀 Gorgoyle Marketplace</h4>
+      <p>A comprehensive platform designed to help teams discover, evaluate, price, and benchmark AI models efficiently. This project leverages a modern tech stack to provide a robust marketplace solution.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h4>🔥 Project 2</h4>
-      <p>Cloud-native microservices architecture with Docker and Kubernetes</p>
-      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vitest-6E933D?style=flat-square&logo=vitest&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
-      <h4>⚡ Project 3</h4>
-      <p>Mobile app development using React Native and Firebase</p>
+      <h4>💡 LightDB</h4>
+      <p>A lightweight, TypeScript-based database library that operates in memory and persists data as JSON files. It's designed for learning, experimentation, and unit testing, offering simple utilities for managing tables, columns, and rows.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h4>🤖 Project 4</h4>
-      <p>AI/ML project leveraging Python and TensorFlow</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vitest-6E933D?style=flat-square&logo=vitest&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
 
-### 🌟 Open Source Contributions
-
-I actively contribute to various open source projects across different domains:
-
-- 🔧 **DevOps & Infrastructure**: Contributing to container orchestration and CI/CD tools
-- 💻 **Web Frameworks**: Bug fixes and feature additions to popular frameworks
-- 📚 **Documentation**: Improving documentation for developer tools and libraries
-- 🎨 **UI Libraries**: Contributing components and design improvements
-- 🤝 **Community Projects**: Participating in hackathons and collaborative initiatives
-
----
-
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Building scalable cloud-native applications
-- 🌱 Exploring advanced AI/ML techniques
-- 🚀 Contributing to impactful open source projects
-- 📝 Writing technical articles and sharing knowledge
-- 🎓 Mentoring aspiring developers
-
----
+*   🔭 Building scalable cloud-native applications
+*   🌱 Exploring advanced AI/ML techniques
+*   🚀 Contributing to impactful open source projects
+*   📝 Writing technical articles and sharing knowledge
+*   🎓 Mentoring aspiring developers
 
 ## 🤝 Let's Connect!
 
-<!-- 
-  📌 Update these links with your actual social media profiles
-  You can also add more platforms like: Dev.to, Medium, Stack Overflow, etc.
--->
+**💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-<div align="center">
-  <a href="https://github.com/rayterion">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/rayterion">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/rayterion">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:contact@rayterion.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-  
-  **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  <p>⭐️ From <a href="https://github.com/rayterion">rayterion</a> with ❤️</p>
-</div>
+⭐️ From [rayterion](https://github.com/rayterion) with ❤️
