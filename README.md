@@ -9,7 +9,7 @@
 
 Software developer passionate about building meaningful solutions and contributing to open source.
 
- - **Currently contributing to Lexical - Meta's open-source.
+ - **Currently contributing** to Lexical - Meta's open-source.
 
 - Open to collaborating on interesting open-source projects
 
