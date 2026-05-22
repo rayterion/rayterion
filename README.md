@@ -35,8 +35,8 @@ Software developer passionate about building meaningful solutions and contributi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayterion&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="Túlio's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayterion&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Túlio's Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayterion&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&v=1" alt="Túlio's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayterion&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&v=1" alt="Túlio's Top Languages" height="150" />
 </div>
 
 ---
