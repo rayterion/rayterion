@@ -32,21 +32,6 @@ Software developer passionate about building meaningful solutions and contributi
 
 ---
 
-## 🚀 Quick Overview
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+T%C3%BAlio!+👋;Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
-  
-  <br />
-
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,git,vscode,figma" alt="My Skills" />
-  </a>
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
