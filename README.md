@@ -16,11 +16,6 @@
 
 Software developer passionate about building meaningful solutions and contributing to open source.
 
-- 🔭 **Currently contributing** to [Lexical](https://github.com/facebook/lexical) - Meta's open-source text editor framework.
-- 🌱 **Learning & Exploring:** [Add a technology or framework you are learning]
-- 👯 **Open to collaborating** on interesting open-source projects.
-- ⚡ **Fun fact:** [Add a quick fun fact about yourself!]
-
 ---
 
 ## 🛠️ Tech Stack
