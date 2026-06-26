@@ -12,13 +12,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Software developer passionate about building meaningful solutions and contributing to open source.
+Software engineer building solutions and using mathematical models with great reasoning for the best impact.
+Currently pursuing a civil engineering degree.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,git,github" alt="Tech Stack" />
